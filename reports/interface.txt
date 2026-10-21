@@ -1,0 +1,10 @@
+
+Contract: APIThresholdAttestor
+
+Constructor (0 params):
+
+Methods (4):
+  - create_attestation(api_url, json_path, operator, threshold, context) [write]
+  - get_attestation(attestation_id) [view]
+  - get_attestation_count() [view]
+  - resolve_attestation(attestation_id) [write]

@@ -1,0 +1,9 @@
+{
+  "contract": "APIThresholdAttestor",
+  "methods": {
+    "create_attestation": "write",
+    "resolve_attestation": "write",
+    "get_attestation": "view",
+    "get_attestation_count": "view"
+  }
+}

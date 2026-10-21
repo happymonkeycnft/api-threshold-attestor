@@ -1,0 +1,12 @@
+{
+  "source_bytes": 9608,
+  "source_sha256": "2716f8e6b116505a9bc006505c4cc2f983e706551782be8d0c913513e95820d0",
+  "public_method_count": 4,
+  "llm_call_count": 0,
+  "response_bound_bytes": 65536,
+  "decimal_precision": 18,
+  "integer_digits": 60,
+  "interface": "PASS",
+  "closure_storage": "PASS (AST plus direct pickling and GLSim)",
+  "secret_scan": "PASS (credential-pattern text scan)"
+}

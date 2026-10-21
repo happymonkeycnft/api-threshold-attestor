@@ -1,0 +1,32 @@
+{
+  "scenario": "BELOW",
+  "votes": [
+    "agree",
+    "agree",
+    "agree",
+    "agree",
+    "agree"
+  ],
+  "status": "FINALIZED",
+  "result": "BELOW",
+  "calls": {
+    "web": 6,
+    "llm": 0
+  },
+  "attestation": {
+    "attestation_id": 1,
+    "creator": "0x391697230821b7399CEc2cDd78a435c90bcD00FC",
+    "api_url": "https://api.example.com/value",
+    "json_path": "data.value",
+    "operator": ">",
+    "threshold": "100",
+    "context": "",
+    "request_commitment": "a1c5f481d9a2bfbdb6933ef63458381be1be1b8fcdb7497ec3bd9ff6a8b78374",
+    "status": "ATTESTED",
+    "availability": "AVAILABLE",
+    "observed_value": "75",
+    "response_fingerprint": "6fa051b29b28478c2a060ac8cf585ca45518e23958dfe734a0f12b4c4003d8cf",
+    "result": "BELOW",
+    "condition_met": false
+  }
+}
